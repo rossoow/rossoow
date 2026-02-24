@@ -15,6 +15,3 @@ I am currently architecting BovineSync, an end-to-end Precision Livestock Farmin
 - **Core Engineering:** Data Structuring, Algorithm Design, MLOps Foundations.
 
 - **Tools:** Git/GitHub, Database Modeling, WPF (.NET).
-
-📫 Let's Connect
-Actively seeking 2026 remote ML/AI internships. Reach out to me on [LinkedIn]("https://www.linkedin.com/in/gabriel-rosso-fernandes-81987932a")!
